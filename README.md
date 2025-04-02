@@ -21,6 +21,7 @@ define('BOT_KEY', 'YOUR_TELEGRAM_BOT_TOKEN');
 ```
 
 3. Jalankan menggunakan [Laragon](https://laragon.org/) atau program lain yang sudah mendukung _Virtual Host_ **\*) _Opsional_**
+4. Buka halaman `https://[DOMAIN_KAMU]/webhook/set` untuk mengaktifkan _webhook_ bot telegram
 
 ## Daftar Perintah
 
