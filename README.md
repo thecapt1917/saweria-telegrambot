@@ -1,6 +1,8 @@
 # Send Saweria Alert to Telegram Bot
 
-Pogram ini berfungsi untuk mengirim notifikasi donasi saweria yang masuk ke bot telegram
+Pogram ini berfungsi untuk mengirim notifikasi donasi saweria ke bot telegram
+
+Atau bisa gunakan Bot Telegram [**@sawerialertbot**](https://t.me/sawerialertbot)
 
 ## Cara Menggunakan
 
@@ -36,3 +38,4 @@ Perintah **/url** menghasilkan sebuah URL UNIK `https://[DOMAIN_KAMU]/webhook/[I
 2. Buka menu [**Integration**](https://saweria.co/admin/integrations)
 3. Pada menu **Webhook**, _input_ URL UNIK yang didapatkan dari bot
 4. Jangan lupa nyalakan _webhook_ dan simpan!
+5. Klik tombol **Munculkan Notifikasi** untuk melakukan tes
